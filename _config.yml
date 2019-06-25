@@ -10,8 +10,8 @@ collections:
     output: true
     headline: How 2 Germans Are Disrupting the Hearing Aid Industry with This  Amazing
       Device
-    P1: test
-    P2: teste
+    text: test
+    block text: teste
   uploads:
     title: Uploads
     output: true
